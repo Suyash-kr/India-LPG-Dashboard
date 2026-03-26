@@ -14,3 +14,7 @@ This Power BI dashboard analyzes LPG consumption, production, imports, and price
 - Power BI
 - Excel
 - Data Visualization
+  
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard.png)
